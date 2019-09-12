@@ -22,7 +22,7 @@
 
 * For errors/issues check if you:
 1. Have .NET 4.72 installed
-2. Check if wdkn is installed [wdk](https://docs.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk).
+2. Check if [wdk](https://docs.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk) is installed.
 3. Contact me in UC (pm me), or open an issue here.
 
 ## Compatibility
