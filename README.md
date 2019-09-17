@@ -38,3 +38,4 @@
 * UC dudes, for support: [UC](https://www.unknowncheats.me/forum/portal.php)
 
 Shared Memory interface in c#
+Uc thread > https://www.unknowncheats.me/forum/anti-cheat-bypass/354436-shared-memory-interface.html
