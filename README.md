@@ -1,2 +1,2 @@
-# SharedInterface-by-Cesar
-Shared Memory interface in c#
+# SharedMemory-Refactored
+Shared Memory implementation in c#
