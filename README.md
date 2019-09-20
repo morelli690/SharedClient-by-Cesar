@@ -31,7 +31,7 @@
 
 ## Credits
 
-*SharedInterface Here* was coded on the shoulders of giants.
+*Shared Client Here* was coded on the shoulders of giants.
 
 * SharedMemory-By-Frankoo: [fengjixuchui / SharedMemory-By-Frankoo](https://github.com/fengjixuchui/SharedMemory-By-Frankoo)
 * Blackbone: [DarthTon/Blackbone](https://github.com/DarthTon/Blackbone)
@@ -42,4 +42,5 @@
 * Alexander Bruun
 
 Shared Memory client in c#
-Uc thread > https://www.unknowncheats.me/forum/anti-cheat-bypass/354436-shared-memory-interface.html
+Uc thread > https://www.unknowncheats.me/forum/anti-cheat-bypass/354436-shared-memory-
+face.html
