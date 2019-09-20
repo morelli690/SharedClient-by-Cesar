@@ -42,5 +42,4 @@
 * Alexander Bruun
 
 Shared Memory client in c#
-Uc thread > https://www.unknowncheats.me/forum/anti-cheat-bypass/354436-shared-memory-
-face.html
+Uc thread > https://www.unknowncheats.me/forum/anti-cheat-bypass/354436-shared-memory-interface.html
